@@ -1,0 +1,117 @@
+header {
+    height: 150px;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKRxVtugFsQL9Qksy_lrSFq6_iUYF6wFXCoQ&usqp=CAU');
+    background-color: rgb(53, 111, 236);
+    position: relative;
+}
+
+h1 {
+    font-size: 60px;
+    margin-bottom: 0px;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+th {
+    /* background-color: rgb(13, 85, 168); */
+    color: white;
+}
+
+main {
+    margin-bottom: 40px;
+}
+
+table {
+    border-spacing: 0px;
+}
+
+.the_booleaner {
+    position: absolute;
+    left: 20px;
+    bottom: 15px;
+    height: 50%;
+}
+
+.subtitle_1 {
+    color: dimgrey;
+    line-height: 0.2em;
+    margin: 0px;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.subtitle_2 {
+    font-size: 1rem;
+    color: dimgrey;
+    line-height: 0.2em;
+    margin-bottom: 20px;
+}
+
+.tim_pics {
+    filter: contrast(200%);
+}
+
+.img_infos {
+    line-height: 0.2em;
+    font-size: 0.8rem;
+}
+
+.highlited {
+    background-color: yellow;
+}
+
+.column_1, .column_2 {
+    width: 23%;
+    height: 30px;
+}
+
+.column_1, .column_2, .column_3 {
+    text-align: left;
+}
+
+.colored_row {
+    background-color: rgb(134, 227, 255);
+}
+
+.interesting_links {
+    color: dimgrey;
+    line-height: 0.2em;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+#blue_text {
+    color:rgb(53, 111, 236);
+}
+
+#tr_head {
+    background-color: rgb(13, 85, 168);
+}
+
+#link_monitor {
+    background-image: url(../img/monitor.jpg);
+    height: 207px;
+    width: 311px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    font-size: 2rem;
+    color: white;
+}
+
+#link_graph {
+    background-image: url(../img/graph.jpg);
+    height: 207px;
+    width: 311px;
+    padding-left: 10px;
+    font-size: 2rem;
+    color: white;
+}
+
+#z_letter {
+    position: absolute;
+    height: 50px;
+    margin-left: 115px;
+    margin-top: 75px;
+}
