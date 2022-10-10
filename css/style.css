@@ -19,6 +19,10 @@ th {
     color: white;
 }
 
+main {
+    margin-bottom: 40px;
+}
+
 .the_booleaner {
     position: absolute;
     left: 20px;
@@ -59,10 +63,36 @@ th {
     background-color: rgb(134, 227, 255);
 }
 
+.interesting_links {
+    color: dimgrey;
+    line-height: 0.2em;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
 #blue_text {
     color:rgb(53, 111, 236);
 }
 
 #tr_head {
     background-color: rgb(13, 85, 168);
+}
+
+#link_monitor {
+    background-image: url(../img/monitor.jpg);
+    height: 207px;
+    width: 311px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    font-size: 2rem;
+    color: white;
+}
+
+#link_graph {
+    background-image: url(../img/graph.jpg);
+    height: 207px;
+    width: 311px;
+    padding-left: 10px;
+    font-size: 2rem;
+    color: white;
 }
