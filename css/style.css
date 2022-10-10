@@ -14,6 +14,11 @@ ul {
     padding-left: 20px;
 }
 
+th {
+    /* background-color: rgb(13, 85, 168); */
+    color: white;
+}
+
 .the_booleaner {
     position: absolute;
     left: 20px;
@@ -45,6 +50,19 @@ ul {
     background-color: yellow;
 }
 
+.column_1, .column_2 {
+    width: 23%;
+    height: 30px;
+}
+
+.colored_row {
+    background-color: rgb(134, 227, 255);
+}
+
 #blue_text {
     color:rgb(53, 111, 236);
+}
+
+#tr_head {
+    background-color: rgb(13, 85, 168);
 }
