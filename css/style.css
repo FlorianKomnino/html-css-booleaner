@@ -10,6 +10,10 @@ h1 {
     margin-bottom: 0px;
 }
 
+ul {
+    padding-left: 20px;
+}
+
 .the_booleaner {
     position: absolute;
     left: 20px;
@@ -35,6 +39,10 @@ h1 {
 .img_infos {
     line-height: 0.2em;
     font-size: 0.8rem;
+}
+
+.highlited {
+    background-color: yellow;
 }
 
 #blue_text {
