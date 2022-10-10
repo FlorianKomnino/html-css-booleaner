@@ -5,9 +5,38 @@ header {
     position: relative;
 }
 
+h1 {
+    font-size: 60px;
+    margin-bottom: 0px;
+}
+
 .the_booleaner {
     position: absolute;
     left: 20px;
-    bottom: 20px;
+    bottom: 15px;
     height: 50%;
+}
+
+.subtitle_1 {
+    color: dimgrey;
+    line-height: 0.2em;
+    margin: 0px;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.subtitle_2 {
+    font-size: 1rem;
+    color: dimgrey;
+    line-height: 0.2em;
+    margin-bottom: 20px;
+}
+
+.img_infos {
+    line-height: 0.2em;
+    font-size: 0.8rem;
+}
+
+#blue_text {
+    color:rgb(53, 111, 236);
 }
